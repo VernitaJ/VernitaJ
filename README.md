@@ -6,5 +6,5 @@
 - 🌱 Ccurrently learning about Transformer architecture in Machine Learning and Research Methodologies in Software Engineering
 - 📫 How to reach me: *myname*.gouws@hotmail.com
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vernitaj&show_icons=true"/>
+     
+![Vernita's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernitaj&show_icons=true&theme=radical)
