@@ -7,4 +7,4 @@
 - 📫 How to reach me: *myname*.gouws@hotmail.com
 <br/>
      
-![Vernita's GitHub stats](https://github-readme-stats-phi-bice.vercel.app/api?username=vernitaj&show_icons=true&theme=radical)
+![Vernita's GitHub stats](https://github-readme-stats-phi-bice.vercel.app/api?username=vernitaj&show_icons=true&theme=dark)
