@@ -8,3 +8,5 @@
 <br/>
      
 ![Vernita's GitHub stats](https://github-readme-stats-phi-bice.vercel.app/api?username=vernitaj&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats-phi-bice.vercel.app/api/top-langs/?username=vernitaj&hide=css,scss,html,jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
